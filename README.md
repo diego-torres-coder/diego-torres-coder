@@ -53,6 +53,7 @@ Em meu perfil do GitHub, você encontrará uma variedade de projetos relacionado
 - [Projeto de Automação de Processos Repetitivos com PyAutoGUI](https://github.com/diego-torres-coder/Automacao-Envio-Relatorios-com-Indicadores)
 - [Projeto de Automação Web com Python e Selenium](https://github.com/diego-torres-coder/Automacao-Web-Busca-de-Cotacoes)
 - [Projeto de Análise de Dados com Pandas](https://github.com/diego-torres-coder/Analise-de-Dados-de-Empresa-de-Telecomunicacoes)
+- [Projeto de Ciência de Dados](https://github.com/diego-torres-coder/Previsao-de-Vendas)
 
 Sinta-se à vontade para explorar meus repositórios e deixar comentários ou sugestões.
 
