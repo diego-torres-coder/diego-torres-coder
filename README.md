@@ -8,7 +8,7 @@ Como Analista de Dados Python, sou capaz de coletar, limpar, analisar e interpre
 
 Além disso, crio projetos para automação de processos na web e em desktop, utilizando bibliotecas do Python tais como Selenium e PyAutoGUI.
 
-Atualmente, estou aprendendo a usar o Streamlit, um framework do Python para construir dashboards e *data apps*. 
+Atualmente, estou cursando a Formação de Data Science da Alura.
 
 
 ## Ferramentas
@@ -36,12 +36,17 @@ Atualmente, estou aprendendo a usar o Streamlit, um framework do Python para con
 
 <img alt="selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white">
 
+### Ferramentas de Criação de Data Apps
+
+<div style="display:flex">
+  <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+</div>
+
 ### IDEs
 
 <div style="display:flex">
   <img alt="jupyter-notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
   <img alt="google-colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-  <img alt="pycharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
   <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </div>
 
